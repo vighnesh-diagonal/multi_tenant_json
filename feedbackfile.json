@@ -1,7 +1,7 @@
 [
   {
     "id": "1748254613925rd2o1",
-    "status": "pending",
+    "status": "done",
     "appID": "C:\\Users\\vighn\\OneDrive\\Documents\\Qlik\\Sense\\Apps\\test_app_for_workflow.qvf",
     "appName": "test_app_for_workflow",
     "vOriginSpaceName": "personal",
@@ -15,7 +15,7 @@
   },
   {
     "id": "17482547135586j6sa",
-    "status": "pending",
+    "status": "done",
     "appID": "C:\\Users\\vighn\\OneDrive\\Documents\\Qlik\\Sense\\Apps\\test_app_for_workflow.qvf",
     "appName": "test_app_for_workflow",
     "vOriginSpaceName": "personal",
