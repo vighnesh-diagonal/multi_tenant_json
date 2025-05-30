@@ -427,7 +427,7 @@
   },
   {
     "id": "17486041216467i49j",
-    "status": "pending",
+    "status": "resolved",
     "appID": "C:\\Users\\Client\\Documents\\Qlik\\Sense\\Apps\\IPL Analysis\\IPL Analysis.qvf",
     "appName": "IPL Analysis",
     "sheetName": "Team Insights",
@@ -457,7 +457,7 @@
   },
   {
     "id": "17486061794988gyiv",
-    "status": "pending",
+    "status": "resolved",
     "appID": "C:\\Users\\Client\\Documents\\Qlik\\Sense\\Apps\\IPL Analysis\\IPL Analysis.qvf",
     "appName": "IPL Analysis",
     "sheetName": "Team Insights",
