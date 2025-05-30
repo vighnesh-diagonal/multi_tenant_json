@@ -454,5 +454,15 @@
     "vObjectId": "zFmp",
     "feedback": "4th one",
     "feedbackCreatedAt": "5/30/2025, 5:21:54 PM"
+  },
+  {
+    "id": "17486061794988gyiv",
+    "status": "pending",
+    "appID": "C:\\Users\\Client\\Documents\\Qlik\\Sense\\Apps\\IPL Analysis\\IPL Analysis.qvf",
+    "appName": "IPL Analysis",
+    "sheetName": "Team Insights",
+    "vObjectId": "QrRda",
+    "feedback": "1st kpi",
+    "feedbackCreatedAt": "5/30/2025, 5:26:19 PM"
   }
 ]
