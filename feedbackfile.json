@@ -894,12 +894,13 @@
   },
   {
     "id": "1749473900202vz4ft",
-    "status": "pending",
+    "status": "resolved",
     "appID": "C:\\Users\\Pratiksha\\OneDrive\\Documents\\Qlik\\Sense\\Apps\\BikeShare.qvf",
     "appName": "BikeShare",
     "sheetName": "User Demographics and Trip Behaviour",
     "vObjectId": "FaUJe",
     "feedback": "tis is new",
-    "feedbackCreatedAt": "6/9/2025, 6:28:20 PM"
+    "feedbackCreatedAt": "6/9/2025, 6:28:20 PM",
+    "lastUpdatedAt": "6/9/2025, 6:31:42 PM"
   }
 ]
