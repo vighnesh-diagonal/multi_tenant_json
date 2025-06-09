@@ -883,12 +883,13 @@
   },
   {
     "id": "1749461346148gqohy",
-    "status": "pending",
+    "status": "resolved",
     "appID": "C:\\Users\\Client\\Documents\\Qlik\\Sense\\Apps\\IPL Analysis\\IPL Analysis.qvf",
     "appName": "IPL Analysis",
     "sheetName": "Team Insights",
     "vObjectId": "ubxJmyR",
     "feedback": "!st filter",
-    "feedbackCreatedAt": "6/9/2025, 2:59:06 PM"
+    "feedbackCreatedAt": "6/9/2025, 2:59:06 PM",
+    "lastUpdatedAt": "6/9/2025, 3:00:10 PM"
   }
 ]
