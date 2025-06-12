@@ -1362,7 +1362,7 @@
   },
   {
     "id": "1749730288348pg4de",
-    "status": "pending",
+    "status": "resolved",
     "appID": "9d798e52-24a0-4906-b4ec-87e815b0751d",
     "appName": "BikeShare",
     "vOriginSpaceName": "personal",
@@ -1372,6 +1372,7 @@
     "sheetName": "User Demographics and Trip Behaviour",
     "vObjectId": "qPsVL",
     "feedback": "this is",
-    "feedbackCreatedAt": "12/6/2025, 5:41:28 pm"
+    "feedbackCreatedAt": "12/6/2025, 5:41:28 pm",
+    "lastUpdatedAt": "6/12/2025, 5:42:42 PM"
   }
 ]
