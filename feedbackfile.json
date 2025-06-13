@@ -1377,13 +1377,14 @@
   },
   {
     "id": "17497889779332bcxb",
-    "status": "pending",
+    "status": "resolved",
     "appID": "C:\\Users\\adity\\OneDrive\\Documents\\Qlik\\Sense\\Apps\\gg.qvf",
     "appName": "gg",
     "vReviewer": "Aditya",
     "sheetName": "My new sheet",
     "vObjectId": "bKswCPz",
     "feedback": "hello",
-    "feedbackCreatedAt": "6/13/2025, 9:59:37 AM"
+    "feedbackCreatedAt": "6/13/2025, 9:59:37 AM",
+    "lastUpdatedAt": "6/13/2025, 10:00:32 AM"
   }
 ]
