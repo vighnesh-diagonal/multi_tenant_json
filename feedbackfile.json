@@ -367,7 +367,7 @@
   },
   {
     "id": "1748588070436xs2vx",
-    "status": "pending",
+    "status": "resolved",
     "appID": "C:\\Users\\vighn\\OneDrive\\Documents\\Qlik\\Sense\\Apps\\test_app_for_workflow.qvf",
     "appName": "test_app_for_workflow",
     "vOriginSpaceName": "personal",
@@ -378,7 +378,7 @@
     "vObjectId": "ee314826-4179-4ae7-97ed-b43e8ca5dd6b",
     "feedback": "this is new",
     "feedbackCreatedAt": "30/5/2025, 12:24:30 pm",
-    "lastUpdatedAt": "30/5/2025, 12:24:30 pm",
+    "lastUpdatedAt": "18/6/2025, 4:17:17 pm",
     "resolver": "Vighnesh Gawad"
   },
   {
