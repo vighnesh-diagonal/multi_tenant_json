@@ -663,8 +663,15 @@
     "vObjectId": "fVYZGja",
     "feedback": "so",
     "feedbackCreatedAt": "6/3/2025, 4:07:59 PM",
-    "lastUpdatedAt": "6/3/2025, 4:37:31 PM",
-    "resolver": "Unassigned"
+    "lastUpdatedAt": "6/18/2025, 5:11:22 PM",
+    "resolver": "Unassigned",
+    "responses": [
+      {
+        "text": "Hey",
+        "createdAt": "6/18/2025, 5:11:22 PM",
+        "responder": "'Pratiksha Dakare'"
+      }
+    ]
   },
   {
     "id": "1749011654641ibnf2",
