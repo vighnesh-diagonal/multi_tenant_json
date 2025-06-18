@@ -812,7 +812,7 @@
     "vObjectId": "KEQA",
     "feedback": "Use Set Analysis",
     "feedbackCreatedAt": "6/18/2025, 12:36:59 PM",
-    "lastUpdatedAt": "6/18/2025, 12:38:42 PM",
+    "lastUpdatedAt": "6/18/2025, 1:00:40 PM",
     "responses": [
       {
         "text": "Okay",
@@ -823,6 +823,11 @@
         "text": "Fine",
         "createdAt": "6/18/2025, 12:38:42 PM",
         "responder": "='Pratiksha Dakare'"
+      },
+      {
+        "text": "OK",
+        "createdAt": "6/18/2025, 1:00:40 PM",
+        "responder": "'Pratiksha Dakare"
       }
     ]
   }
