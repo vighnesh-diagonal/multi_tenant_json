@@ -1,16 +1,15 @@
 [
   {
-    "id": "1750237331299ew6fp",
+    "id": "1750240697955ybnha",
     "status": "pending",
     "appID": "C:\\Users\\Administrator\\OneDrive - Diagonal Consulting LLP\\Documents\\Qlik\\Sense\\Apps\\BikeShare.qvf",
     "appName": "BikeShare",
     "vProposer": "'Pratiksha Dakare'",
-    "vReviewer": "='Pratiksha Dakare'",
     "sheetName": "User Demographics and Trip Behaviour",
-    "vObjectId": "QWPhgrk",
-    "feedback": "Need Improvements in this chart",
-    "feedbackCreatedAt": "6/18/2025, 2:32:11 PM",
-    "lastUpdatedAt": "6/18/2025, 2:32:11 PM",
+    "vObjectId": "NcTQHeZ",
+    "feedback": "Should work now",
+    "feedbackCreatedAt": "6/18/2025, 3:28:17 PM",
+    "lastUpdatedAt": "6/18/2025, 3:28:17 PM",
     "responses": []
   }
 ]
