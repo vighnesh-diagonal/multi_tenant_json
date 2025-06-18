@@ -812,7 +812,13 @@
     "vObjectId": "KEQA",
     "feedback": "Use Set Analysis",
     "feedbackCreatedAt": "6/18/2025, 12:36:59 PM",
-    "lastUpdatedAt": "6/18/2025, 12:36:59 PM",
-    "responses": []
+    "lastUpdatedAt": "6/18/2025, 12:38:06 PM",
+    "responses": [
+      {
+        "text": "Okay",
+        "createdAt": "6/18/2025, 12:38:06 PM",
+        "responder": "Unknown"
+      }
+    ]
   }
 ]
