@@ -923,7 +923,7 @@
   },
   {
     "id": "1750240908461sehf7",
-    "status": "pending",
+    "status": "resolved",
     "appID": "C:\\Users\\Administrator\\OneDrive - Diagonal Consulting LLP\\Documents\\Qlik\\Sense\\Apps\\BikeShare.qvf",
     "appName": "BikeShare",
     "vProposer": "'Pratiksha Dakare'",
@@ -931,7 +931,7 @@
     "vObjectId": "mqJf",
     "feedback": "This will work",
     "feedbackCreatedAt": "6/18/2025, 3:31:48 PM",
-    "lastUpdatedAt": "6/18/2025, 3:31:48 PM",
+    "lastUpdatedAt": "6/19/2025, 3:57:16 PM",
     "responses": []
   },
   {
