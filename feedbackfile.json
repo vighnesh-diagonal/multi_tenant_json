@@ -915,14 +915,14 @@
   },
   {
     "id": "1750312780730ssxsj",
-    "status": "pending",
+    "status": "resolved",
     "appID": "C:\\Users\\Administrator\\OneDrive - Diagonal Consulting LLP\\Documents\\Qlik\\Sense\\Apps\\BikeShare.qvf",
     "appName": "BikeShare",
     "sheetName": "User Demographics and Trip Behaviour",
     "vObjectId": "PFpZGr",
     "feedback": "hii there",
     "feedbackCreatedAt": "6/19/2025, 11:29:40 AM",
-    "lastUpdatedAt": "6/19/2025, 11:29:40 AM",
+    "lastUpdatedAt": "6/19/2025, 12:38:37 PM",
     "responses": []
   }
 ]
