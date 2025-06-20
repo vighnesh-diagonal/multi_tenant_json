@@ -776,7 +776,7 @@
   },
   {
     "id": "17501415461118rla6",
-    "status": "pending",
+    "status": "resolved",
     "appID": "7bc4f96c-6af3-4d5a-a0ff-bfb30794ff82",
     "appName": "Ecom Dashboard",
     "vOriginSpaceName": "personal",
@@ -787,7 +787,8 @@
     "vObjectId": "PnAeCf",
     "feedback": "change color of kpi",
     "feedbackCreatedAt": "17/6/2025, 11:55:46 am",
-    "lastUpdatedAt": "17/6/2025, 11:55:46 am"
+    "lastUpdatedAt": "20/6/2025, 9:49:58 am",
+    "resolver": "Vighnesh Gawad"
   },
   {
     "id": "1750141722374uspmk",
