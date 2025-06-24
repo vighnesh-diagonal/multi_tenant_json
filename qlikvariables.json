@@ -1,11 +1,28 @@
 [
   {
     "appID": "C:\\Users\\Administrator\\OneDrive - Diagonal Consulting LLP\\Documents\\Qlik\\Sense\\Apps\\BikeShare.qvf",
-    "ReviewStatus": "Pending",
-    "vProposerID": "='Pqr'",
-    "vReviewerID": "='Pratiksha Dakare'",
-    "vSpaceName": "S10. Admin Review",
-    "vCurrentUserID": "Pratiksha Dakare",
-    "vSpaceType": "shared"
+    "vProposerID": "auth0|5d07675d1f28fc84def19e8ec0b8d...",
+    "vCurrentUserID": "auth0|5d07675d1f28fc84def19e8ec0b8d...",
+    "vReviewerID": "auth0|5d07675d1f28fc84def19e8ec0b8d...",
+    "vOriginSpaceName": "personal",
+    "vTargetSpaceName": "Sales Prod",
+    "vProposer": "Vighnesh Gawad",
+    "vReviewer": "Vighnesh Gawad",
+    "vApprovalAutomation": "https://diagonalap.qlikcloud.com/api/v1/...",
+    "ReviewLevel": "L1",
+    "ReviewStatus": "Pending"
+  },
+  {
+    "appID": "appID_2",
+    "vProposerID": "auth0|5d07675d1f28fc84def19e8ec0b8d...",
+    "vCurrentUserID": "auth0|5d07675d1f28fc84def19e8ec0b8d...",
+    "vReviewerID": "auth0|5d07675d1f28fc84def19e8ec0b8d...",
+    "vOriginSpaceName": "personal",
+    "vTargetSpaceName": "Sales Prod",
+    "vProposer": "Vighnesh Gawad",
+    "vReviewer": "Vighnesh Gawad",
+    "vApprovalAutomation": "https://diagonalap.qlikcloud.com/api/v1/...",
+    "ReviewLevel": "L2",
+    "ReviewStatus": "Approved"
   }
 ]
