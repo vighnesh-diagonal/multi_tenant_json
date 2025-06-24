@@ -13,7 +13,7 @@
     "ReviewStatus": "Pending"
   },
   {
-    "appID": "appID_2",
+    "appID": "C:\\Users\\vighn\\OneDrive\\Documents\\Qlik\\Sense\\Apps\\test_app_for_workflow.qvf",
     "vProposerID": "auth0|5d07675d1f28fc84def19e8ec0b8d...",
     "vCurrentUserID": "auth0|5d07675d1f28fc84def19e8ec0b8d...",
     "vReviewerID": "auth0|5d07675d1f28fc84def19e8ec0b8d...",
