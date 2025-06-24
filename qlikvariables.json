@@ -1,8 +1,11 @@
-{
-  "ReviewStatus": "Pending",
-  "vProposerID": "='Pqr'",
-  "vReviewerID": "='Pratiksha Dakare'",
-  "vSpaceName": "S10. Admin Review",
-  "vCurrentUserID": "Pratiksha Dakare",
-  "vSpaceType": "shared"
-}
+[
+  {
+    "appID": "C:\\Users\\Administrator\\OneDrive - Diagonal Consulting LLP\\Documents\\Qlik\\Sense\\Apps\\BikeShare.qvf",
+    "ReviewStatus": "Pending",
+    "vProposerID": "='Pqr'",
+    "vReviewerID": "='Pratiksha Dakare'",
+    "vSpaceName": "S10. Admin Review",
+    "vCurrentUserID": "Pratiksha Dakare",
+    "vSpaceType": "shared"
+  }
+]
