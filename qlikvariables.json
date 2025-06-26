@@ -12,8 +12,8 @@
     "ReviewStatus": "L1a Review submitted — developer is working on it."
   },
   {
-    "appID": "f37abbf02b2a3ac80",
-    "vProposerID": "auth0|f5d07675d1f28fc84dcf1f9ee8c0b8d5b1fde23b0e24969641b93a1928f9a366",
+    "appID": "C:\\Users\\vighn\\OneDrive\\Documents\\Qlik\\Sense\\Apps\\test_app_for_workflow.qvf",
+    "vProposerID": "6",
     "vReviewerID": "auth0|f5d07675d1f28fc84dcf1f9ee8c0b8d5b1fde23b0e24969641b93a1928f9a366",
     "vOriginSpaceName": "Development",
     "vTargetSpaceName": "UAT",
