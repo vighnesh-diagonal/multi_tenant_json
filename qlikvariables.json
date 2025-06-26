@@ -45,6 +45,6 @@
     "vReviewer": "Vighnesh Gawad",
     "vApprovalAutomation": "https://diagonal.ap.qlikcloud.com/api/v1/automations/2667e4d8-2c99-4b31-87ae-cece586a2e11/actions/execute?X-Execution-Token=OlGmwI390IawREbPhbX2aifj3uR9bxgOSv6zUy4AksRmuAyUSMys8yg18YuAAwh6&originAppId=f37abbfa-2cc0-42a8-b97b-b902b2a3ac80&appId=8f593cf8-b2a9-43b8-b78d-a7aa832569eb&ownerEmail=vighnesh@diagonal.ai&spaceId=67e24aa49de9f4fcdb476882&approveReject=Approved&userName=Vighnesh Gawad&originOwner=Yx2AY9D-aoqwgsC0sKfFwqdrYz_NjTRh&originSpace=685a8438edaf9b82cc78b0f2&Level=L1a",
     "ReviewLevel": "L1a",
-    "ReviewStatus": "L1a approved — ready to move to the next stage."
+    "ReviewStatus": "L1a Review submitted — developer is working on it."
   }
 ]
