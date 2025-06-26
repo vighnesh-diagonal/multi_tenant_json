@@ -1,7 +1,7 @@
 [ 
 {
-    "appID": "C:\\Users\\vighn\\OneDrive\\Documents\\Qlik\\Sense\\Apps\\test_app_for_workflow.qvf",
-    "appName":"Ecom Dashboard"
+    "appID": "7bc4f96c-6af3-4d5a-a0ff-bfb30794ff82",
+    "appName":"Ecom Dashboard",
     "vProposerID": "auth0|f5d07675d1f28fc84dcf1f9ee8c0b8d5b1fde23b0e24969641b93a1928f9a366",
     "vReviewerID": "auth0|f5d07675d1f28fc84dcf1f9ee8c0b8d5b1fde23b0e24969641b93a1928f9a366",
     "vOriginSpaceName": "Development",
