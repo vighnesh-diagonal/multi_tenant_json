@@ -1,7 +1,7 @@
-[ 
-{
+[
+  {
     "appID": "7bc4f96c-6af3-4d5a-a0ff-bfb30794ff82",
-    "appName":"Ecom Dashboard",
+    "appName": "Ecom Dashboard",
     "vProposerID": "auth0|f5d07675d1f28fc84dcf1f9ee8c0b8d5b1fde23b0e24969641b93a1928f9a366",
     "vReviewerID": "auth0|f5d07675d1f28fc84dcf1f9ee8c0b8d5b1fde23b0e24969641b93a1928f9a366",
     "vOriginSpaceName": "Development",
@@ -10,6 +10,6 @@
     "vReviewer": "Vighnesh Gawad",
     "vApprovalAutomation": "https://diagonal.ap.qlikcloud.com/api/v1/automations/2667e4d8-2c99-4b31-87ae-cece586a2e11/actions/execute?X-Execution-Token=OlGmwI390IawREbPhbX2aifj3uR9bxgOSv6zUy4AksRmuAyUSMys8yg18YuAAwh6&originAppId=7bc4f96c-6af3-4d5a-a0ff-bfb30794ff82&appId=905718eb-6722-4729-bfc4-5fa60ad9dd21&ownerEmail=vighnesh@diagonal.ai&spaceId=67e24aa49de9f4fcdb476882&approveReject=Approved&userName=Vighnesh Gawad&originOwner=Yx2AY9D-aoqwgsC0sKfFwqdrYz_NjTRh&originSpace=685a8438edaf9b82cc78b0f2&Level=L1b",
     "ReviewLevel": "L1b",
-    "ReviewStatus": "Selected for L1b  review"
+    "ReviewStatus": "L1a approved — ready to move to the next stage."
   }
 ]
