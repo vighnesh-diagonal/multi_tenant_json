@@ -21,7 +21,7 @@
     "vTargetSpaceName": "UAT",
     "vProposer": "Vighnesh Gawad",
     "vReviewer": "Vighnesh Gawad",
-    "vApprovalAutomation": "https://diagonal.ap.qlikcloud.com",
+    "vApprovalAutomation": "#",
     "ReviewLevel": "L1a",
     "ReviewStatus": "L1a approved — ready to move to the next stage."
   },
