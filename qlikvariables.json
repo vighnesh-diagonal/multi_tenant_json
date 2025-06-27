@@ -1,11 +1,59 @@
 [
-{"appID":"9d798e52-24a0-4906-b4ec-87e815b0751d","appName":"BikeShare","vProposerID":"auth0|591822e5b38ab4686468308802e04c3c57f0e9b2d8b5a607474871aeca782aac","vReviewerID":"auth0|591822e5b38ab4686468308802e04c3c57f0e9b2d8b5a607474871aeca782aac","vOriginSpaceName":"personal","vTargetSpaceName":"UAT","vProposer":"Pratiksha Dakare","vReviewer":"Pratiksha Dakare","vApprovalAutomation":"https:\/\/diagonal.ap.qlikcloud.com\/api\/v1\/automations\/2667e4d8-2c99-4b31-87ae-cece586a2e11\/actions\/execute?X-Execution-Token=OlGmwI390IawREbPhbX2aifj3uR9bxgOSv6zUy4AksRmuAyUSMys8yg18YuAAwh6&originAppId=9d798e52-24a0-4906-b4ec-87e815b0751d&appId=a1a96d2c-4e2a-4cb1-94f8-61d1f04c1cdc&ownerEmail=pratiksha.dakare@diagonal.ai&spaceId=67e24aa49de9f4fcdb476882&approveReject=Approved&userName=Pratiksha Dakare&originOwner=680888201aa2458120dcbba1&originSpace=personal&Level=L1a","ReviewTeam":"team-sales-l1a","ReviewLevel":"L1a","ReviewStatus":"L1a approved \u2014 ready to move to the next stage."},
-{"appID":"7bc4f96c-6af3-4d5a-a0ff-bfb30794ff82","appName":"Ecom Dashboard","vProposerID":"auth0|f5d07675d1f28fc84dcf1f9ee8c0b8d5b1fde23b0e24969641b93a1928f9a366","vReviewerID":"auth0|f5d07675d1f28fc84dcf1f9ee8c0b8d5b1fde23b0e24969641b93a1928f9a366","vOriginSpaceName":"Development","vTargetSpaceName":"UAT","vProposer":"Vighnesh Gawad","vReviewer":"Vighnesh Gawad","vApprovalAutomation":"https:\/\/diagonal.ap.qlikcloud.com\/api\/v1\/automations\/2667e4d8-2c99-4b31-87ae-cece586a2e11\/actions\/execute?X-Execution-Token=OlGmwI390IawREbPhbX2aifj3uR9bxgOSv6zUy4AksRmuAyUSMys8yg18YuAAwh6&originAppId=7bc4f96c-6af3-4d5a-a0ff-bfb30794ff82&appId=a8495d24-cda2-489f-a177-d70786c1ad1a&ownerEmail=vighnesh@diagonal.ai&spaceId=67e24aa49de9f4fcdb476882&approveReject=Approved&userName=Vighnesh Gawad&originOwner=Yx2AY9D-aoqwgsC0sKfFwqdrYz_NjTRh&originSpace=685a8438edaf9b82cc78b0f2&Level=L1b","ReviewTeam":"team-sales-l1b","ReviewLevel":"L1b","ReviewStatus":"L1b approved \u2014 ready to move to the next stage."},
-{"appID":"C:\\Users\\Administrator\\OneDrive - Diagonal Consulting LLP\\Documents\\Qlik\\Sense\\Apps\\BikeShare.qvf","vProposerID":"auth0|f5d07675d1f28fc84dcf1f9ee8c0b8d5b1fde23b0e24969641b93a1928f9a366","vReviewerID":"pratiksha","vOriginSpaceName":"Development","vTargetSpaceName":"UAT","vProposer":"Vighnesh Gawad","vReviewer":"Vighnesh Gawad","vApprovalAutomation":"https:\/\/diagonal.ap.qlikcloud.com","ReviewLevel":"L1a","ReviewStatus":"L1a approved \u2014 ready to move to the next stage."},
-{"appID":"C:\\Users\\vighn\\OneDrive\\Documents\\Qlik\\Sense\\Apps\\test_app_for_workflow.qvf","vProposerID":"6","vReviewerID":"auth0|f5d07675d1f28fc84dcf1f9ee8c0b8d5b1fde23b0e24969641b93a1928f9a366","vOriginSpaceName":"Development","vTargetSpaceName":"UAT","vProposer":"Vighnesh Gawad","vReviewer":"Vighnesh Gawad","vApprovalAutomation":"https:\/\/diagonal.ap.qlikcloud.com\/api\/v1\/automations\/2667e4d8-2c99-4b31-87ae-cece586a2e11\/actions\/execute?X-Execution-Token=OlGmwI390IawREbPhbX2aifj3uR9bxgOSv6zUy4AksRmuAyUSMys8yg18YuAAwh6&originAppId=f37abbfa-2cc0-42a8-b97b-b902b2a3ac80&appId=183a1cac-c8e6-49a3-99db-d5a231c02b0d&ownerEmail=vighnesh@diagonal.ai&spaceId=67e24aa49de9f4fcdb476882&approveReject=Approved&userName=Vighnesh Gawad&originOwner=Yx2AY9D-aoqwgsC0sKfFwqdrYz_NjTRh&originSpace=685a8438edaf9b82cc78b0f2&Level=L1a","ReviewLevel":"L1a","ReviewStatus":"L1a approved \u2014 ready to move to the next stage."},
- {
+  {
+    "appID": "9d798e52-24a0-4906-b4ec-87e815b0751d",
+    "appName": "BikeShare",
+    "vProposerID": "auth0|591822e5b38ab4686468308802e04c3c57f0e9b2d8b5a607474871aeca782aac",
+    "vReviewerID": "auth0|591822e5b38ab4686468308802e04c3c57f0e9b2d8b5a607474871aeca782aac",
+    "vOriginSpaceName": "personal",
+    "vTargetSpaceName": "UAT",
+    "vProposer": "Pratiksha Dakare",
+    "vReviewer": "Pratiksha Dakare",
+    "vApprovalAutomation": "https://diagonal.ap.qlikcloud.com/api/v1/automations/2667e4d8-2c99-4b31-87ae-cece586a2e11/actions/execute?X-Execution-Token=OlGmwI390IawREbPhbX2aifj3uR9bxgOSv6zUy4AksRmuAyUSMys8yg18YuAAwh6&originAppId=9d798e52-24a0-4906-b4ec-87e815b0751d&appId=a1a96d2c-4e2a-4cb1-94f8-61d1f04c1cdc&ownerEmail=pratiksha.dakare@diagonal.ai&spaceId=67e24aa49de9f4fcdb476882&approveReject=Approved&userName=Pratiksha Dakare&originOwner=680888201aa2458120dcbba1&originSpace=personal&Level=L1a",
+    "ReviewTeam": "team-sales-l1a",
+    "ReviewLevel": "L1a",
+    "ReviewStatus": "L1a approved — ready to move to the next stage."
+  },
+  {
+    "appID": "7bc4f96c-6af3-4d5a-a0ff-bfb30794ff82",
+    "appName": "Ecom Dashboard",
+    "vProposerID": "auth0|f5d07675d1f28fc84dcf1f9ee8c0b8d5b1fde23b0e24969641b93a1928f9a366",
+    "vReviewerID": "auth0|f5d07675d1f28fc84dcf1f9ee8c0b8d5b1fde23b0e24969641b93a1928f9a366",
+    "vOriginSpaceName": "Development",
+    "vTargetSpaceName": "UAT",
+    "vProposer": "Vighnesh Gawad",
+    "vReviewer": "Vighnesh Gawad",
+    "vApprovalAutomation": "https://diagonal.ap.qlikcloud.com/api/v1/automations/2667e4d8-2c99-4b31-87ae-cece586a2e11/actions/execute?X-Execution-Token=OlGmwI390IawREbPhbX2aifj3uR9bxgOSv6zUy4AksRmuAyUSMys8yg18YuAAwh6&originAppId=7bc4f96c-6af3-4d5a-a0ff-bfb30794ff82&appId=a8495d24-cda2-489f-a177-d70786c1ad1a&ownerEmail=vighnesh@diagonal.ai&spaceId=67e24aa49de9f4fcdb476882&approveReject=Approved&userName=Vighnesh Gawad&originOwner=Yx2AY9D-aoqwgsC0sKfFwqdrYz_NjTRh&originSpace=685a8438edaf9b82cc78b0f2&Level=L1b",
+    "ReviewTeam": "team-sales-l1b",
+    "ReviewLevel": "L1b",
+    "ReviewStatus": "L1b approved — ready to move to the next stage."
+  },
+  {
+    "appID": "C:\\Users\\Administrator\\OneDrive - Diagonal Consulting LLP\\Documents\\Qlik\\Sense\\Apps\\BikeShare.qvf",
+    "vProposerID": "auth0|f5d07675d1f28fc84dcf1f9ee8c0b8d5b1fde23b0e24969641b93a1928f9a366",
+    "vReviewerID": "pratiksha",
+    "vOriginSpaceName": "Development",
+    "vTargetSpaceName": "UAT",
+    "vProposer": "Vighnesh Gawad",
+    "vReviewer": "Vighnesh Gawad",
+    "vApprovalAutomation": "https://diagonal.ap.qlikcloud.com",
+    "ReviewLevel": "L1a",
+    "ReviewStatus": "L1a approved — ready to move to the next stage."
+  },
+  {
+    "appID": "C:\\Users\\vighn\\OneDrive\\Documents\\Qlik\\Sense\\Apps\\test_app_for_workflow.qvf",
+    "vProposerID": "6",
+    "vReviewerID": "auth0|f5d07675d1f28fc84dcf1f9ee8c0b8d5b1fde23b0e24969641b93a1928f9a366",
+    "vOriginSpaceName": "Development",
+    "vTargetSpaceName": "UAT",
+    "vProposer": "Vighnesh Gawad",
+    "vReviewer": "Vighnesh Gawad",
+    "vApprovalAutomation": "https://diagonal.ap.qlikcloud.com/api/v1/automations/2667e4d8-2c99-4b31-87ae-cece586a2e11/actions/execute?X-Execution-Token=OlGmwI390IawREbPhbX2aifj3uR9bxgOSv6zUy4AksRmuAyUSMys8yg18YuAAwh6&originAppId=f37abbfa-2cc0-42a8-b97b-b902b2a3ac80&appId=183a1cac-c8e6-49a3-99db-d5a231c02b0d&ownerEmail=vighnesh@diagonal.ai&spaceId=67e24aa49de9f4fcdb476882&approveReject=Approved&userName=Vighnesh Gawad&originOwner=Yx2AY9D-aoqwgsC0sKfFwqdrYz_NjTRh&originSpace=685a8438edaf9b82cc78b0f2&Level=L1a",
+    "ReviewLevel": "L1a",
+    "ReviewStatus": "L1a approved — ready to move to the next stage."
+  },
+  {
     "appID": "39b1b5a4-e9a1-43a8-beb2-fd7aaab362bf",
-    "appName":"BikeShare(1)",
+    "appName": "BikeShare(1)",
     "vProposerID": "auth0|591822e5b38ab4686468308802e04c3c57f0e9b2d8b5a607474871aeca782aac",
     "vReviewerID": "auth0|591822e5b38ab4686468308802e04c3c57f0e9b2d8b5a607474871aeca782aac",
     "vOriginSpaceName": "personal",
@@ -13,8 +61,8 @@
     "vProposer": "Pratiksha Dakare",
     "vReviewer": "Pratiksha Dakare",
     "vApprovalAutomation": "https://diagonal.ap.qlikcloud.com/api/v1/automations/2667e4d8-2c99-4b31-87ae-cece586a2e11/actions/execute?X-Execution-Token=OlGmwI390IawREbPhbX2aifj3uR9bxgOSv6zUy4AksRmuAyUSMys8yg18YuAAwh6&originAppId=39b1b5a4-e9a1-43a8-beb2-fd7aaab362bf&appId=3bbba8cc-a99b-494d-a571-2ac41c64f1a3&ownerEmail=pratiksha.dakare@diagonal.ai&spaceId=67e24aa49de9f4fcdb476882&approveReject=Approved&userName=Pratiksha Dakare&originOwner=680888201aa2458120dcbba1&originSpace=personal&Level=L1a",
-    "ReviewTeam":"team-sales-l1a",
+    "ReviewTeam": "team-sales-l1a",
     "ReviewLevel": "L1a",
-    "ReviewStatus": "Selected for L1a  review"
+    "ReviewStatus": "L1a Review submitted — developer is working on it."
   }
 ]
