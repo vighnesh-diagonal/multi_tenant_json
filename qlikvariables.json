@@ -74,7 +74,7 @@
     "vTargetSpaceName": "UAT",
     "vProposer": "Pratiksha Dakare",
     "vReviewer": "Pratiksha Dakare",
-    "vApprovalAutomation": "https://diagonal.ap.qlikcloud.com/api/v1/automations/2667e4d8-2c99-4b31-87ae-cece586a2e11/actions/execute?X-Execution-Token=OlGmwI390IawREbPhbX2aifj3uR9bxgOSv6zUy4AksRmuAyUSMys8yg18YuAAwh6&originAppId=9d798e52-24a0-4906-b4ec-87e815b0751d&appId=e01bb883-87db-4d3b-8c62-c353a9b31f4f&ownerEmail=pratiksha.dakare@diagonal.ai&spaceId=67e24aa49de9f4fcdb476882&approveReject=Approved&userName=Pratiksha Dakare&originOwner=680888201aa2458120dcbba1&originSpace=personal&Level=L1a",
+    "vApprovalAutomation": "#",
     "ReviewTeam": "team-sales-l1a",
     "ReviewLevel": "L1a",
     "ReviewStatus": "L1a Review submitted — developer is working on it."
