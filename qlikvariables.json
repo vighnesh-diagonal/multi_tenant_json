@@ -88,9 +88,9 @@
     "vTargetSpaceName": "Sales Prod",
     "vProposer": "Vighnesh Gawad",
     "vReviewer": "Vighnesh Gawad",
-    "vApprovalAutomation": "https://diagonal.ap.qlikcloud.com/api/v1/automations/2667e4d8-2c99-4b31-87ae-cece586a2e11/actions/execute?X-Execution-Token=OlGmwI390IawREbPhbX2aifj3uR9bxgOSv6zUy4AksRmuAyUSMys8yg18YuAAwh6&originAppId=7bc4f96c-6af3-4d5a-a0ff-bfb30794ff82&appId=dc416ee8-6100-4d8b-bc50-67613b5b7e3a&ownerEmail=vighnesh@diagonal.ai&spaceId=67ce87fadace16b2f6e557c1&approveReject=Approved&userName=Vighnesh Gawad&originOwner=Yx2AY9D-aoqwgsC0sKfFwqdrYz_NjTRh&originSpace=685a8438edaf9b82cc78b0f2&Level=L2",
+    "vApprovalAutomation": "#",
     "ReviewTeam": "team-sales-l2",
     "ReviewLevel": "L2",
-    "ReviewStatus": "Selected for L2  review"
+    "ReviewStatus": "L2 approved — ready to move to the next stage."
   }
 ]
