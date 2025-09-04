@@ -2115,7 +2115,7 @@
   },
   {
     "id": "1756974503513ooc4q",
-    "status": "pending",
+    "status": "resolved",
     "appID": "578b04b1-bb10-40f3-a5aa-dea0a76963bf",
     "appName": "Ecom Dashboard(Developer)",
     "vOriginSpaceName": "Development",
@@ -2126,7 +2126,7 @@
     "vObjectId": "PnAeCf",
     "feedback": "wrong kpi",
     "feedbackCreatedAt": "4/9/2025, 1:58:23 pm",
-    "lastUpdatedAt": "4/9/2025, 1:58:23 pm",
+    "lastUpdatedAt": "4/9/2025, 3:57:57 pm",
     "responses": []
   },
   {
